@@ -17,6 +17,7 @@ This Tableau dashboard presents a comprehensive analysis of **Customer Reviews**
 
 #### **Insights**:
 - These metrics give a quick snapshot of British Airways' performance. A **lower score** in categories like **Food** or **Entertainment** might signal areas where **service enhancements** are needed to improve overall satisfaction.
+
 ![image](https://github.com/user-attachments/assets/82747c01-5db4-4dd0-ada6-94df51aa6f7e)
 
 ---
@@ -29,8 +30,10 @@ This Tableau dashboard presents a comprehensive analysis of **Customer Reviews**
   
 #### **Analyst Use**:
 - With a **date filter** applied, users can track **performance trends** over time. If an airline rolls out a new menu or introduces a new entertainment system, this trend line can show the direct impact of that change.
-![image](https://github.com/user-attachments/assets/95f399cd-5de1-487c-93e9-4edece367623)
-![image](https://github.com/user-attachments/assets/680b9da4-13d2-48a1-ae5a-055a5626952d) ![image](https://github.com/user-attachments/assets/77fae038-eb25-425d-90ec-e0d2d3804f70)
+
+![image](https://github.com/user-attachments/assets/c2c8fe06-9656-428b-8f97-885f2e3aff11)
+![image](https://github.com/user-attachments/assets/0ac10efc-c595-465d-b0ae-6faa91ea5e27)
+
 ---
 
 #### **Geographical Performance: Average Rating by Country (Geographic Heatmap)**
