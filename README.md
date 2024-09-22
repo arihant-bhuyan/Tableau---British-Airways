@@ -1,5 +1,4 @@
 # **British Airways Review Analytics Project**
-### **Project by Arihant Bhuyan**
 
 ## **Overview**
 This Tableau dashboard presents a comprehensive analysis of **Customer Reviews** for British Airways, spanning from **March 2016 to October 2023**. By analyzing key service aspects such as **overall rating**, **cabin service**, **entertainment**, **food**, **ground service**, **seat comfort**, and **value for money**, this dashboard enables dynamic exploration of British Airways' service performance. Through its interactive filters, the dashboard helps uncover insights across **traveller types**, **aircraft models**, **seat classes**, and **geographical regions**, providing actionable data-driven recommendations and insights for understanding both **global** and **service-specific performance**, helping to identify improvement areas.
