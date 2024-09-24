@@ -103,3 +103,5 @@ The power of this dashboard lies in how the filters allow you to ask more **spec
 
 This **British Airways Review Analytics Project** dashboard is built with dynamic, interactive features that empower users to explore **customer satisfaction data** from multiple angles. With the ability to drill down into specific segments using filters like **traveller type**, **seat class**, **aircraft model**, and **time period**, users can uncover **targeted insights**. This interactive capability makes the dashboard suitable for **data-driven decisions** to improve **customer satisfaction**.
 
+Credits: MoChen
+https://mochen.info/
